@@ -1,0 +1,8 @@
+/home/cristian-serrano/IdeaProjects/ecotrack_proyecto/src/main/java/org/iesvdm/ecotrack/EcotrackApplication.java
+/home/cristian-serrano/IdeaProjects/ecotrack_proyecto/src/main/java/org/iesvdm/ecotrack/repository/ActividadRepository.java
+/home/cristian-serrano/IdeaProjects/ecotrack_proyecto/src/main/java/org/iesvdm/ecotrack/domain/Usuario.java
+/home/cristian-serrano/IdeaProjects/ecotrack_proyecto/src/main/java/org/iesvdm/ecotrack/controller/UsuarioController.java
+/home/cristian-serrano/IdeaProjects/ecotrack_proyecto/src/main/java/org/iesvdm/ecotrack/service/ActividadService.java
+/home/cristian-serrano/IdeaProjects/ecotrack_proyecto/src/main/java/org/iesvdm/ecotrack/service/UsuarioService.java
+/home/cristian-serrano/IdeaProjects/ecotrack_proyecto/src/main/java/org/iesvdm/ecotrack/domain/Actividad.java
+/home/cristian-serrano/IdeaProjects/ecotrack_proyecto/src/main/java/org/iesvdm/ecotrack/repository/UsuarioRepository.java

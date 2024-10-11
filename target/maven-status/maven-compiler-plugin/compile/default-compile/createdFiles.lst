@@ -1,0 +1,10 @@
+org/iesvdm/ecotrack/repository/UsuarioRepository.class
+org/iesvdm/ecotrack/controller/UsuarioController.class
+org/iesvdm/ecotrack/repository/ActividadRepository.class
+org/iesvdm/ecotrack/domain/Actividad.class
+org/iesvdm/ecotrack/domain/Usuario$UsuarioBuilder.class
+org/iesvdm/ecotrack/EcotrackApplication.class
+org/iesvdm/ecotrack/service/UsuarioService.class
+org/iesvdm/ecotrack/domain/Usuario.class
+org/iesvdm/ecotrack/domain/Actividad$ActividadBuilder.class
+org/iesvdm/ecotrack/service/ActividadService.class
