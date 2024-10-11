@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fdd6022-472a-4165-a119-e655f82f8fb1" name="Changes" comment="b" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dYHferbsi4EGQWCFt6kzFFy9Q9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/cristian-serrano/IdeaProjects/ecotrack/src/main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/iesvdm/ecotrack" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.iesvdm.ecotrack.domain" />
+      <recent name="org.iesvdm.ecotrack.controller" />
+      <recent name="org.iesvdm.ecotrack.service" />
+      <recent name="org.iesvdm.ecotrack.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ecotrack_proyecto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ecotrack_proyecto" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcotrackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="videoclub" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.iesvdm.ecotrack.EcotrackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/src/main/frontend/app-ecotrack/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fdd6022-472a-4165-a119-e655f82f8fb1" name="Changes" comment="" />
+      <created>1710178195883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710178195883</updated>
+      <workItem from="1710178196940" duration="1182000" />
+      <workItem from="1710179415301" duration="257000" />
+      <workItem from="1710264049953" duration="1560000" />
+      <workItem from="1710360557647" duration="1745000" />
+      <workItem from="1710438732332" duration="601000" />
+      <workItem from="1710675226831" duration="4503000" />
+      <workItem from="1713771082404" duration="691000" />
+      <workItem from="1714737727615" duration="1216000" />
+      <workItem from="1714982357566" duration="3711000" />
+      <workItem from="1715005618699" duration="4804000" />
+      <workItem from="1715069856783" duration="1010000" />
+      <workItem from="1715167904635" duration="1230000" />
+      <workItem from="1715339933315" duration="3407000" />
+      <workItem from="1715607925529" duration="1085000" />
+      <workItem from="1715697313574" duration="5283000" />
+      <workItem from="1716125665918" duration="599000" />
+      <workItem from="1716378065217" duration="599000" />
+      <workItem from="1716895751898" duration="599000" />
+      <workItem from="1724249322954" duration="603000" />
+      <workItem from="1724842587454" duration="1407000" />
+      <workItem from="1726396273215" duration="588000" />
+      <workItem from="1726575198803" duration="1221000" />
+      <workItem from="1726841146074" duration="2570000" />
+      <workItem from="1727093898165" duration="203000" />
+      <workItem from="1727279328377" duration="3071000" />
+      <workItem from="1727357791491" duration="1374000" />
+      <workItem from="1727970382539" duration="1510000" />
+      <workItem from="1728052456542" duration="2384000" />
+      <workItem from="1728655745308" duration="17000" />
+      <workItem from="1728655885804" duration="19000" />
+      <workItem from="1728656626240" duration="97000" />
+      <workItem from="1728656987459" duration="970000" />
+      <workItem from="1728660257763" duration="71000" />
+      <workItem from="1728660339750" duration="2609000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <option name="closed" value="true" />
+      <created>1710265578687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710265578687</updated>
+    </task>
+    <task id="LOCAL-00002" summary="13 marzo 21:38">
+      <option name="closed" value="true" />
+      <created>1710362301927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362301927</updated>
+    </task>
+    <task id="LOCAL-00003" summary="17 marzo">
+      <option name="closed" value="true" />
+      <created>1710688451090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710688451090</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mayo&#10;metyodo factor emision en actividad service">
+      <option name="closed" value="true" />
+      <created>1714741571644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714741571644</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mayo&#10;añadido rol en actividad">
+      <option name="closed" value="true" />
+      <created>1714989414989</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714989414989</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mayo&#10;rol arreglado, separacion de actividad y definicion actividad">
+      <option name="closed" value="true" />
+      <created>1715014907545</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715014907545</updated>
+    </task>
+    <task id="LOCAL-00007" summary="copiado el starter de spring security, solo las carpetas config y security">
+      <option name="closed" value="true" />
+      <created>1715169370384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715169370384</updated>
+    </task>
+    <task id="LOCAL-00008" summary="15/9/2024">
+      <option name="closed" value="true" />
+      <created>1726396792087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726396792087</updated>
+    </task>
+    <task id="LOCAL-00009" summary="15/9/2024">
+      <option name="closed" value="true" />
+      <created>1726841864033</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726841864033</updated>
+    </task>
+    <task id="LOCAL-00010" summary="backend y frontend en el mismo proyecto">
+      <option name="closed" value="true" />
+      <created>1727280996719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727280996719</updated>
+    </task>
+    <task id="LOCAL-00011" summary="he puesto la pagina de inicio como un componente, desde el navbar inferior al hacer click en inicio, se pone en el router outlet el componente InicioComponent">
+      <option name="closed" value="true" />
+      <created>1727284314294</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727284314294</updated>
+    </task>
+    <task id="LOCAL-00012" summary="he dejado a medias el componente de iniciar sesion">
+      <option name="closed" value="true" />
+      <created>1727361069990</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727361069991</updated>
+    </task>
+    <task id="LOCAL-00013" summary="falta ponerle flex-grow-1 al componente iniciar-sesion">
+      <option name="closed" value="true" />
+      <created>1727975282926</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727975282926</updated>
+    </task>
+    <task id="LOCAL-00014" summary="falta ponerle flex-grow-1 al componente iniciar-sesion">
+      <option name="closed" value="true" />
+      <created>1728657622947</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728657622947</updated>
+    </task>
+    <task id="LOCAL-00015" summary="falta ponerle flex-grow-1 al componente iniciar-sesion">
+      <option name="closed" value="true" />
+      <created>1728660643823</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728660643823</updated>
+    </task>
+    <task id="LOCAL-00016" summary="b">
+      <option name="closed" value="true" />
+      <created>1728661263939</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728661263939</updated>
+    </task>
+    <task id="LOCAL-00017" summary="b">
+      <option name="closed" value="true" />
+      <created>1728661918711</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728661918711</updated>
+    </task>
+    <task id="LOCAL-00018" summary="b">
+      <option name="closed" value="true" />
+      <created>1728662025053</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728662025053</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <MESSAGE value="13 marzo 21:38" />
+    <MESSAGE value="17 marzo" />
+    <MESSAGE value="mayo&#10;metyodo factor emision en actividad service" />
+    <MESSAGE value="mayo&#10;añadido rol en actividad" />
+    <MESSAGE value="mayo&#10;rol arreglado, separacion de actividad y definicion actividad" />
+    <MESSAGE value="copiado el starter de spring security, solo las carpetas config y security" />
+    <MESSAGE value="15/9/2024" />
+    <MESSAGE value="backend y frontend en el mismo proyecto" />
+    <MESSAGE value="he puesto la pagina de inicio como un componente, desde el navbar inferior al hacer click en inicio, se pone en el router outlet el componente InicioComponent" />
+    <MESSAGE value="he dejado a medias el componente de iniciar sesion" />
+    <MESSAGE value="falta ponerle flex-grow-1 al componente iniciar-sesion" />
+    <MESSAGE value="b" />
+    <option name="LAST_COMMIT_MESSAGE" value="b" />
+  </component>
+</project>
